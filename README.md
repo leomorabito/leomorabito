@@ -1,13 +1,27 @@
-# 👋 Hi, I'm Leo!
+# Hi, I'm Leo
 
-I'm a **Postdoctoral Researcher** and **Data Scientist** with a passion for behavioral economics, sport analytics, and data science.
+I'm a **Data Engineer** at **Vrije Universiteit Amsterdam**, where I build AI products for the university as part of the VITA team.
 
-- 🧑‍💻 I specialize in **web scraping** and working with **APIs** to collect and analyze large datasets.
-- 📊 My research explores the intersection between economics, data, and human behavior—often using real-world data from sports and digital platforms.
-- 🚀 Currently, I'm working on projects in **experimental economics** and **machine learning**.
-- 🎓 Previously, I completed a PhD in Economics and a Master in Data Science.
-- 🌍 I enjoy tackling applied problems and transforming data into actionable insights.
+My background is in research. I hold a **PhD in Economics** and a **Master in Data Science**, and I worked as a **postdoctoral researcher** in behavioral and applied microeconomics.
 
-> *Always curious, always learning.*
+Originally from Calabria (Italy), now based in Amsterdam.
 
-- 📫 Reach me at: leomorabito.ml@gmail.com
+### What I work on
+- Building AI tools and LLM based applications for university teams
+- Designing data pipelines that collect, clean and structure data
+- Gathering data through **web scraping** and **APIs**
+- Applying **machine learning** and statistics to real problems
+
+### Other interests
+- Business ideas
+- Behavioral economics and human decision making
+- Sport (analytics)
+
+### Tech
+Python · R · LLMs · Git · ASR 
+
+### Contact
+leomorabito.ml@gmail.com
+
+
+*Always curious, always learning.*
